@@ -16,7 +16,7 @@
   "homepage": "http://www.openshift.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openshift/origin-server"
+    "url": "https://github.com/petersonpius/nodejs.git"
   },
   "engines": {
     "node": ">= 0.6.0",
